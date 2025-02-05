@@ -15,3 +15,4 @@ to train the model image folder structure
         *  -class1
         *  -class2
           
+extract image using glob() library then yield image using Imagedatagenerator() then it pass to model fit
